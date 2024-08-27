@@ -1,0 +1,2 @@
+"openings"	1477
+"players"	15635

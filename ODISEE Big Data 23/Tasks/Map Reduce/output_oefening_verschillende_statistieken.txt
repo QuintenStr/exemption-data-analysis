@@ -1,0 +1,8 @@
+"minimum_aantal_beurten"	1
+"maximum_aantal_beurten"	349
+"average_aantal_beurten"	60.46599860404826
+"mediaan_minuten"	11.02435
+"minimum_aantal_schaak"	0
+"maximum_aantal_schaak"	46
+"average_aantal_schaak"	5.875573122529644
+"rated_%"	80.54142985342507

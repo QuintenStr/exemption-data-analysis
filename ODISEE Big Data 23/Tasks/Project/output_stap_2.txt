@@ -1,0 +1,13 @@
+Aantal verschillende woorden	19065
+Lengte_min	1
+Lengte_max	34
+Lengte_gem	13.02489509360878
+bin_1_5	3627
+bin_6_10	6857
+bin_11_15	5663
+bin_16_20	4274
+bin_21_25	3122
+bin_26_30	1156
+bin_31_35	85
+Lege_velden	20
+Aantal_rijen	24784

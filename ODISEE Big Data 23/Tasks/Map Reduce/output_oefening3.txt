@@ -1,0 +1,4 @@
+"draw"	906
+"mate"	6325
+"outoftime"	1680
+"resign"	11147

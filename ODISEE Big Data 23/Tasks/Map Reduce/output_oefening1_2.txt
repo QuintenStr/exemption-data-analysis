@@ -1,0 +1,1 @@
+"Aantal rijen (zonder kolomnamen): "	20058
